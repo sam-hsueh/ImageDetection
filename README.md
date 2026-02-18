@@ -11,3 +11,5 @@ After unzipping the above file, copy the DLL files under the folder ...libtorch-
 Copy LibTorch.dll file to this folder ...\bin...runtimes\win-x64\native from DLL folder;
 
 Reference all files in the DLL directory;
+
+<img width="1920" height="1140" alt="屏幕截图 2026-02-18 134147" src="https://github.com/user-attachments/assets/a3ec98c0-b1a8-43ca-bdcb-ddb62926ee14" />
