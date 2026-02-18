@@ -7,7 +7,7 @@
         xmlns:local="clr-namespace:ImageFeatureDetection"
         xmlns:domain="clr-namespace:ImageFeatureDetection.Domain"
         mc:Ignorable="d"
-        Title="新疆大学智能制造现代产业学院" Height="450" Width="800"
+        Title="XJU智能制造现代产业学院" Height="450" Width="800"
 Style="{StaticResource MaterialDesignWindow}" 
     Icon="/XJULogob.ico"
     WindowState="Maximized" Cursor="Hand">
